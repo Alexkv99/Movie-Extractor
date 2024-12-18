@@ -11,27 +11,28 @@ def clean_bafta(data):
     for year, awards in data.get("BAFTA", {}).items():
         for award, details in awards.items():
             if isinstance(details, dict):
-                # Process winner
+                # Process winner only
                 winner = details.get("winner", {})
                 if winner:
-                    cleaned.append({
-                        "Year": year,
-                        "Film": winner.get("title"),
-                        "Details": {
-                            "Award": award,
-                            "Nominee(s)": winner.get("persons_invested", [])
-                        }
-                    })
-                # Process nominees
-                for nominee in details.get("nominees", []):
-                    cleaned.append({
-                        "Year": year,
-                        "Film": nominee.get("title"),
-                        "Details": {
-                            "Award": award,
-                            "Nominee(s)": nominee.get("persons_invested", [])
-                        }
-                    })
+                    if award in ["Leading Actor", "Leading Actress", "Supporting Actor", "Supporting Actress"]:
+                        # Swap actor name and movie title
+                        cleaned.append({
+                            "Year": year,
+                            "Film": winner.get("persons_invested", [None])[0],  # Movie title
+                            "Details": {
+                                "Award": award,
+                                "Nominee(s)": [winner.get("title")],  # Actor's name
+                            }
+                        })
+                    else:
+                        cleaned.append({
+                            "Year": year,
+                            "Film": winner.get("title"),
+                            "Details": {
+                                "Award": award,
+                                "Nominee(s)": winner.get("persons_invested", [])
+                            }
+                        })
     return cleaned
 
 # Function to clean Golden Globe data

@@ -4,8 +4,8 @@ Year,Film,Awards and Nominees
 2022,After Love,"Director (Aleem Khan),Leading Actress (Joanna Scanlan),Outstanding British Film (Aleem Khan, Matthieu de Braconier),Outstanding Debut By A British Writer, Director or Producer (Aleem Khan (Writer/Director))"
 2022,Ali & Ava,"Leading Actor (Adeel Akhtar),Outstanding British Film (Clio Barnard, Tracy ORiordan)"
 2022,An Irish Goodbye,"British Short Film (Ross White, Tom Berkeley),SHORT FILM (Live Action) (),SHORT FILM (Live Action) (No nominees listed),SHORT FILM (Live Action) (Tom Berkeley and Ross White)"
-2022,Ariana DeBose,"EE Rising Star Award (),EE Rising Star Award (No nominees listed)"
-2022,Avatar: The Way of Water,"Golden Globe Award for Best Director (),Golden Globe Award for Best Director (No nominees listed),Sound (Christopher Boyes, Gary Summers, Julian Howarth, Gwendolyn Yates Whittle, Michael Hedges),Special Visual Effects (Richard Baneham, Eric Saindon, Daniel Barrett, Joe Letteri),VISUAL EFFECTS (),VISUAL EFFECTS (Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett),VISUAL EFFECTS (No nominees listed)"
+2022,Ariana DeBose,"EE Rising Star Award (),EE Rising Star Award (No nominees listed),Supporting Actress (West Side Story)"
+2022,Avatar: The Way of Water,"Golden Globe Award for Best Director (),Golden Globe Award for Best Director (No nominees listed),Sound (Christopher Boyes, Gary Summers, Julian Howarth, Gwendolyn Yates Whittle, Michael Hedges),Special Visual Effects (Richard Baneham, Daniel Barrett, Joe Letteri, Eric Saindon),Special Visual Effects (Richard Baneham, Eric Saindon, Daniel Barrett, Joe Letteri),VISUAL EFFECTS (),VISUAL EFFECTS (Joe Letteri, Richard Baneham, Eric Saindon and Daniel Barrett),VISUAL EFFECTS (No nominees listed)"
 2022,Becoming Cousteau,"Documentary (Mridu Chandra, Liz Garbus, Dan Cogan, Evan Hayes)"
 2022,Being The Ricardos,"Original Score (Daniel Pemberton),Original Screenplay (Aaron Sorkin)"
 2022,Black Panther: Wakanda Forever,"COSTUME DESIGN (),COSTUME DESIGN (No nominees listed),COSTUME DESIGN (Ruth Carter)"
@@ -13,7 +13,7 @@ Year,Film,Awards and Nominees
 2022,C'mon C'mon,Supporting Actor (Woody Norman)
 2022,Cow,"Documentary (Andrea Arnold, Kat Mansoor)"
 2022,Cyrano,"Costume Design (Massimo Cantini Parrini),Make Up & Hair (Siân Miller, Alessandro Bertolazzi),Outstanding British Film (Tim Bevan, Eric Fellner, Joe Wright, Guy Heeley, Erica Schmidt),Production Design (Katie Spencer, Sarah Greenwood)"
-2022,Do Not Feed The Pigeons,"British Short Animation (Antonin Niclass, Vladimir Krasilnikov, Jordi Morera)"
+2022,Do Not Feed The Pigeons,"British Short Animation (Antonin Niclass, Vladimir Krasilnikov, Jordi Morera),British Short Animation (Vladimir Krasilnikov, Jordi Morera, Antonin Niclass)"
 2022,Don't Look Up,"Best Film (Kevin Messick, Adam McKay),Leading Actor (Leonardo DiCaprio),Original Score (Nicholas Britell),Original Screenplay (Adam McKay)"
 2022,Everybody's Talking About Jamie,"Outstanding British Film (Tom MacRae, Dan Gillespie Sells, Mark Herbert, Jonathan Butterell, Peter Carlton)"
 2022,Everything Everywhere All at Once,"ACTOR IN A SUPPORTING ROLE (),ACTOR IN A SUPPORTING ROLE (Ke Huy Quan),ACTOR IN A SUPPORTING ROLE (No nominees listed),ACTRESS IN A LEADING ROLE (),ACTRESS IN A LEADING ROLE (Michelle Yeoh),ACTRESS IN A LEADING ROLE (No nominees listed),ACTRESS IN A SUPPORTING ROLE (),ACTRESS IN A SUPPORTING ROLE (Jamie Lee Curtis),ACTRESS IN A SUPPORTING ROLE (No nominees listed),BEST PICTURE (),BEST PICTURE (Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers),BEST PICTURE (No nominees listed),DIRECTING (),DIRECTING (Daniel Kwan and Daniel Scheinert),DIRECTING (No nominees listed),FILM EDITING (),FILM EDITING (No nominees listed),FILM EDITING (Paul Rogers),Golden Globe Award for Best Director (),Golden Globe Award for Best Director (No nominees listed),WRITING (Original Screenplay) (),WRITING (Original Screenplay) (No nominees listed),WRITING (Original Screenplay) (Written by Daniel Kwan & Daniel Scheinert)"
@@ -21,10 +21,11 @@ Year,Film,Awards and Nominees
 2022,Flee,"Animated Film (Monica Hellström, Jonas Poher Rasmussen, Signe Byrge Sørensen, Charlotte De La Gournerie),Documentary (Monica Hellström, Jonas Poher Rasmussen, Signe Byrge Sørensen, Charlotte De La Gournerie)"
 2022,Free Guy,"Special Visual Effects (Daniel Sudick, Bryan Grill, Swen Gillberg, Nikos Kalaitzidis)"
 2022,Ghostbusters: Afterlife,"Special Visual Effects (Pier Lefebvre, Alessandro Ongaro, Sheena Duggal, Aharon Bourland)"
-2022,Guillermo del Toro's Pinocchio,"ANIMATED FEATURE FILM (),ANIMATED FEATURE FILM (Guillermo del Toro, Mark Gustafson, Gary Ungar and Alex Bulkley),ANIMATED FEATURE FILM (No nominees listed),Animated Film (Mark Gustafson, Gary Ungar, Alex Bulkley, Guillermo del Toro),Golden Globe Award for Best Animated Feature Film (ShadowMachine, The Jim Henson Company),Golden Globe Award for Best Animated Feature Film (The Jim Henson Company, ShadowMachine),Original Score (Alexandre Desplat),Production Design (Guy Davis, Curt Enderle)"
+2022,Guillermo del Toro's Pinocchio,"ANIMATED FEATURE FILM (),ANIMATED FEATURE FILM (Guillermo del Toro, Mark Gustafson, Gary Ungar and Alex Bulkley),ANIMATED FEATURE FILM (No nominees listed),Animated Film (Alex Bulkley, Guillermo del Toro, Mark Gustafson, Gary Ungar),Animated Film (Mark Gustafson, Gary Ungar, Alex Bulkley, Guillermo del Toro),Golden Globe Award for Best Animated Feature Film (ShadowMachine, The Jim Henson Company),Golden Globe Award for Best Animated Feature Film (The Jim Henson Company, ShadowMachine),Original Score (Alexandre Desplat),Production Design (Guy Davis, Curt Enderle)"
 2022,Happening,Director (Audrey Diwan)
 2022,Harris Dickinson,"EE Rising Star Award (),EE Rising Star Award (No nominees listed)"
 2022,House of Gucci,"Leading Actress (Lady Gaga),Make Up & Hair (Göran Lundström, Jana Carboni, Frederic Aspiras, Sarah Tanno, Giuliano Mariano),Outstanding British Film (Becky Johnston, Mark Huffam, Ridley Scott, Giannina Scott, Kevin J Walsh, Roberto Bentivegna)"
+2022,Joanna Scanlan,Leading Actress (After Love)
 2022,Keyboard Fantasies,"Outstanding Debut By A British Writer, Director or Producer (Posy Dixon (Writer/Director), Liv Proctor (Producer))"
 2022,Kodi Smit-McPhee,"EE Rising Star Award (),EE Rising Star Award (No nominees listed)"
 2022,Lashana Lynch,"EE Rising Star Award (),EE Rising Star Award (No nominees listed)"
@@ -33,18 +34,18 @@ Year,Film,Awards and Nominees
 2022,Luca,"Animated Film (Enrico Casarosa, Andrea Warren)"
 2022,Mass,Supporting Actress (Ann Dowd)
 2022,Millicent Simmonds,"EE Rising Star Award (),EE Rising Star Award (No nominees listed)"
-2022,Navalny,"DOCUMENTARY FEATURE FILM (),DOCUMENTARY FEATURE FILM (Daniel Roher, Odessa Rae, Diane Becker, Melanie Miller and Shane Boris),DOCUMENTARY FEATURE FILM (No nominees listed),Documentary (Shane Boris, Melanie Miller, Odessa Rae, Diane Becker, Daniel Roher)"
+2022,Navalny,"DOCUMENTARY FEATURE FILM (),DOCUMENTARY FEATURE FILM (Daniel Roher, Odessa Rae, Diane Becker, Melanie Miller and Shane Boris),DOCUMENTARY FEATURE FILM (No nominees listed),Documentary (Melanie Miller, Odessa Rae, Shane Boris, Daniel Roher, Diane Becker),Documentary (Shane Boris, Melanie Miller, Odessa Rae, Diane Becker, Daniel Roher)"
 2022,Night of the Living Dread,"British Short Animation (Ida Melum, Laura Jayne Tunbridge, Danielle Goff, Hannah Kelso)"
 2022,Nightmare Alley,"Cinematography (Dan Laustsen),Costume Design (Luis Sequeira),Production Design (Tamara Deverell, Shane Vieau)"
-2022,No Time To Die,"Cinematography (Linus Sandgren),Editing (Elliot Graham, Tom Cross),Outstanding British Film (Phoebe Waller-Bridge, Neal Purvis, Michael G. Wilson, Cary Joji Fukunaga, Robert Wade, Barbara Broccoli),Sound (Paul Massey, Simon Hayes, Oliver Tarney, James Harrison, Mark Taylor),Special Visual Effects (Joel Green, Chris Corbould, Charlie Noble, Mark Bakowski)"
+2022,No Time To Die,"Cinematography (Linus Sandgren),Editing (Elliot Graham, Tom Cross),Editing (Tom Cross, Elliot Graham),Outstanding British Film (Phoebe Waller-Bridge, Neal Purvis, Michael G. Wilson, Cary Joji Fukunaga, Robert Wade, Barbara Broccoli),Sound (Paul Massey, Simon Hayes, Oliver Tarney, James Harrison, Mark Taylor),Special Visual Effects (Joel Green, Chris Corbould, Charlie Noble, Mark Bakowski)"
 2022,Parallel Mothers,"Film Not in the English Language (Pedro Almodóvar, Agustín Almodóvar)"
 2022,Passing,"Leading Actress (Tessa Thompson),Outstanding British Film (Forest Whitaker, Nina Yang Bongiovi, Rebecca Hall, Margot Hand),Outstanding Debut By A British Writer, Director or Producer (Rebecca Hall (Writer/Director)),Supporting Actress (Ruth Negga)"
 2022,Petite Maman,"Film Not in the English Language (Bénédicte Couvreur, Céline Sciamma)"
 2022,RRR,"MUSIC (Original Song) (),MUSIC (Original Song) (Music by M.M. Keeravaani; Lyric by Chandrabose),MUSIC (Original Song) (No nominees listed)"
 2022,Stuffed,"British Short Film (Theo Rhys, Joss Holden-Rea)"
-2022,"Summer of Soul (Or, When The Revolution Could Not Be Televised)","Documentary (Robert Fyvolent, Ahmir Questlove Thompson, Joseph Patel, David Dinerstein),Editing (Joshua L. Pearson)"
+2022,"Summer of Soul (Or, When The Revolution Could Not Be Televised)","Documentary (Joseph Patel, Robert Fyvolent, Ahmir Questlove Thompson, David Dinerstein),Documentary (Robert Fyvolent, Ahmir Questlove Thompson, Joseph Patel, David Dinerstein),Editing (Joshua L. Pearson)"
 2022,Swan Song,Leading Actor (Mahershala Ali)
-2022,The Banshees of Inisherin,"Best Film (Martin McDonagh, Graham Broadbent, Pete Czernin),Director (Martin McDonagh),Editing (Mikkel E.G. Nielsen),Golden Globe Award for Best Director (),Golden Globe Award for Best Director (No nominees listed),Golden Globe Award for Best Motion Picture – Musical or Comedy (Martin McDonagh),Original Score (Carter Burwell),Original Screenplay (Martin McDonagh),Outstanding British Film (Martin McDonagh, Graham Broadbent, Pete Czernin),Supporting Actor (Barry Keoghan)"
+2022,The Banshees of Inisherin,"Best Film (Martin McDonagh, Graham Broadbent, Pete Czernin),Director (Martin McDonagh),Editing (Mikkel E.G. Nielsen),Golden Globe Award for Best Director (),Golden Globe Award for Best Director (No nominees listed),Golden Globe Award for Best Motion Picture – Musical or Comedy (Martin McDonagh),Original Score (Carter Burwell),Original Screenplay (Martin McDonagh),Outstanding British Film (Martin McDonagh, Graham Broadbent, Pete Czernin),Outstanding British Film (Martin McDonagh, Pete Czernin, Graham Broadbent),Supporting Actor (Barry Keoghan),Supporting Actress (Kerry Condon)"
 2022,The Black Cop,British Short Film (Cherish Oteka)
 2022,"The Boy, the Mole, the Fox and the Horse","SHORT FILM (Animated) (),SHORT FILM (Animated) (Charlie Mackesy and Matthew Freud),SHORT FILM (Animated) (No nominees listed)"
 2022,The Elephant Whisperers,"DOCUMENTARY SHORT FILM (),DOCUMENTARY SHORT FILM (Kartiki Gonsalves and Guneet Monga),DOCUMENTARY SHORT FILM (No nominees listed)"
@@ -63,4 +64,6 @@ Year,Film,Awards and Nominees
 2022,Three Meetings Of The Extraordinary Committee,"British Short Film (Michael Woodward, Daniel Wheldon, Max Barron)"
 2022,Titane,Director (Julia Ducournau)
 2022,Top Gun: Maverick,"Cinematography (Claudio Miranda),Editing (Eddie Hamilton),SOUND (),SOUND (Mark Weingarten, James H. Mather, Al Nelson, Chris Burdon and Mark Taylor),SOUND (No nominees listed),Sound (Mark Weingarten, James H Mather, Mark Taylor, Chris Burdon, Al Nelson),Special Visual Effects (Seth Hill, Bryan Litson, Ryan Tudhope, Scott R Fisher)"
+2022,Troy Kotsur,Supporting Actor (CODA)
+2022,Will Smith,Leading Actor (King Richard)
 2022,Women Talking,"WRITING (Adapted Screenplay) (),WRITING (Adapted Screenplay) (No nominees listed),WRITING (Adapted Screenplay) (Screenplay by Sarah Polley)"
